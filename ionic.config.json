@@ -1,0 +1,7 @@
+{
+  "name": "AgendaTel",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
